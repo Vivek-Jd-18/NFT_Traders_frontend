@@ -1,0 +1,86 @@
+{
+  "name": "nft_frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^35.0.1",
+    "@ckeditor/ckeditor5-react": "^5.0.2",
+    "@coinbase/wallet-sdk": "^3.5.1",
+    "@emotion/react": "^11.8.2",
+    "@emotion/styled": "^11.8.1",
+    "@mui/icons-material": "^5.5.1",
+    "@mui/material": "^5.5.3",
+    "@mui/system": "^5.5.3",
+    "@testing-library/jest-dom": "^5.16.3",
+    "@testing-library/react": "^12.1.4",
+    "@testing-library/user-event": "^13.5.0",
+    "@walletconnect/web3-provider": "^1.8.0",
+    "apexcharts": "^3.35.2",
+    "assert": "^2.0.0",
+    "axios": "^0.26.1",
+    "crypto-browserify": "^3.12.0",
+    "date-fns": "^2.28.0",
+    "echarts": "^5.3.2",
+    "echarts-for-react": "^3.0.2",
+    "ethers": "^5.7.0",
+    "html-react-parser": "^3.0.1",
+    "https-browserify": "^1.0.0",
+    "i": "^0.3.7",
+    "ipfs-http-client": "^58.0.0",
+    "json-stringify-safe": "^5.0.1",
+    "moment": "^2.29.2",
+    "npm": "^8.15.1",
+    "os-browserify": "^0.3.0",
+    "react": "^18.0.0",
+    "react-apexcharts": "^1.4.0",
+    "react-big-calendar": "^0.40.1",
+    "react-dnd": "^16.0.1",
+    "react-dnd-html5-backend": "^16.0.1",
+    "react-dom": "^18.0.0",
+    "react-material-ui-form-validator": "^3.0.0",
+    "react-perfect-scrollbar": "^1.5.8",
+    "react-redux": "^7.2.8",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "^5.0.1",
+    "react-toastify": "^8.2.0",
+    "react-window": "^1.8.6",
+    "redux-persist": "^6.0.0",
+    "stream-browserify": "^3.0.0",
+    "stream-http": "^3.2.0",
+    "sweetalert2": "^11.4.24",
+    "url": "^0.11.0",
+    "validator": "^13.7.0",
+    "web-vitals": "^2.1.4",
+    "web3": "^1.7.5",
+    "web3-eth-contract": "^1.7.5",
+    "web3modal": "^1.9.9"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "homepage": "http://3.13.191.138/#/",
+  "devDependencies": {
+    "react-app-rewired": "^2.2.1"
+  }
+}

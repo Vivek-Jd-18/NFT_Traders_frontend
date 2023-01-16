@@ -1,0 +1,488 @@
+[33mcommit dfb873f627e82d53dec57d234b5ecbe185d145f6[m[33m ([m[1;36mHEAD -> [m[1;32mConnectivity_NFTtrader_Vivek[m[33m, [m[1;31morigin/Connectivity_NFTtrader_Vivek[m[33m)[m
+Author: Vivek <vivekdhage.vhits@gmail.com>
+Date:   Tue Oct 11 12:01:34 2022 +0530
+
+    Changes for set_urI
+
+[33mcommit ee7878a6452a95dd11d20853776b5818212e0541[m
+Author: Vivek <vivekdhage.vhits@gmail.com>
+Date:   Thu Sep 22 19:23:03 2022 +0530
+
+    setTokenUri_one_by_one
+
+[33mcommit 1f73be2660c5b765433aa6d31d7e08207aad2a6f[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 2dd7088 08a48f1
+Author: NikitaKaranpuria <83944173+NikitaKaranpuria@users.noreply.github.com>
+Date:   Thu Sep 15 15:06:31 2022 +0530
+
+    Merge pull request #33 from VHITS-Full-Stack/Connectivity_NFTtrader_Vivek
+    
+    Whitelist add,Buy function added for nft listing,nft minting
+
+[33mcommit 08a48f1ad1d079fcece152692fbdf818e6c869f0[m
+Author: Vivek <vivekdhage.vhits@gmail.com>
+Date:   Thu Sep 15 15:01:54 2022 +0530
+
+    whiteList_buyFunction
+
+[33mcommit bc924681c025b6c368cc46b15728a537748e6689[m
+Author: Vivek <vivekdhage.vhits@gmail.com>
+Date:   Mon Sep 12 19:27:33 2022 +0530
+
+    WhiteListed_1_displayed_Vivek
+
+[33mcommit c22b2c8be91c247af42791d912b342710da3e268[m
+Author: Vivek <vivekdhage.vhits@gmail.com>
+Date:   Tue Sep 6 19:22:50 2022 +0530
+
+    create mint function dynamic, Call Whitelist Function , Buy button call Dynamic
+
+[33mcommit 2dd7088a8e5dd0c6f5327ada40782d28f3d940c1[m[33m ([m[1;31morigin/Connectivity_SmartContract_Parita[m[33m)[m
+Merge: dfb4f7d 2228d06
+Author: NikitaKaranpuria <83944173+NikitaKaranpuria@users.noreply.github.com>
+Date:   Mon Sep 5 12:56:18 2022 +0530
+
+    Merge pull request #32 from VHITS-Full-Stack/Connectivity_SmartContract_Parita
+    
+    config-override file add , for wallet connectivity add providerOption…
+
+[33mcommit 2228d06eb2df2d587f9fe0dbe018770429c8f7ce[m
+Author: parita <paritavyas.vhits@gmail.com>
+Date:   Mon Sep 5 12:47:50 2022 +0530
+
+    config-override file add , for wallet connectivity add providerOptions , Change in SideBar Folder for Wallet Connectivity , Create Folder abi File and Functions call in admin side.
+
+[33mcommit dfb4f7d22961d22cdb8c7d0206041e26c4e6f0af[m
+Merge: 6103a3e d7f84ad
+Author: NikitaKaranpuria <83944173+NikitaKaranpuria@users.noreply.github.com>
+Date:   Wed Aug 31 12:26:39 2022 +0530
+
+    Merge pull request #31 from VHITS-Full-Stack/design_bharat
+    
+    Header sidebar files and folder structure managed
+
+[33mcommit d7f84ad297fad7cf77b03a8b19a318bf170a9732[m[33m ([m[1;31morigin/design_bharat[m[33m)[m
+Merge: a9114f9 6103a3e
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Wed Aug 31 12:24:41 2022 +0530
+
+    Merge branch 'main' into design_bharat
+
+[33mcommit a9114f975df392db951a303657e8628a2b64fd73[m
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Wed Aug 31 12:18:20 2022 +0530
+
+    header or sidebar files and folder structure managed
+
+[33mcommit e7ebf9066955148f1aa585838031ed7dddf30136[m
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Wed Aug 31 12:13:16 2022 +0530
+
+    header or sidebar files and folder structure managed
+
+[33mcommit 6103a3e24e28992372b2146a672333cab00d2d03[m
+Merge: 9b32c9d fba48c0
+Author: NikitaKaranpuria <83944173+NikitaKaranpuria@users.noreply.github.com>
+Date:   Tue Aug 30 19:11:33 2022 +0530
+
+    Merge pull request #30 from VHITS-Full-Stack/design_bharat
+    
+    Google sheet 6 points completed. and index file name changed.
+
+[33mcommit fba48c0fd8d34e54d4bd94cf990e2680e9111f5a[m
+Merge: df59981 9b32c9d
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Tue Aug 30 19:03:40 2022 +0530
+
+    Merge remote-tracking branch 'origin/main' into design_bharat
+
+[33mcommit df59981653c6819ebee4a528485736dc89825f28[m
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Tue Aug 30 19:01:26 2022 +0530
+
+    Google sheet 6 points completed. and index file name changed
+
+[33mcommit 9b32c9dd7b23ba09dbb8614896dd2027ec4d4835[m
+Merge: 1b07359 d2f18f8
+Author: NikitaKaranpuria <83944173+NikitaKaranpuria@users.noreply.github.com>
+Date:   Mon Aug 29 19:20:15 2022 +0530
+
+    Merge pull request #29 from VHITS-Full-Stack/design_bharat
+    
+     Admin or user sidebar files code optimized
+
+[33mcommit d2f18f8baa67243b29f1285205d3f0456ff196b9[m
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Mon Aug 29 19:01:05 2022 +0530
+
+    folder name changes
+
+[33mcommit 5526b82906b2bca21c295a4798e2d292b8e721f5[m
+Merge: a2abee4 1b07359
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Mon Aug 29 18:52:44 2022 +0530
+
+    Merge branch 'main' into design_bharat
+
+[33mcommit a2abee40dcafa76a43e571e657ed7afd066f56b7[m
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Mon Aug 29 18:51:08 2022 +0530
+
+    sidebar add region comment
+
+[33mcommit 40f60f6d6d26da0af905c9d567615276449fe000[m
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Mon Aug 29 18:40:12 2022 +0530
+
+    Admin or user sidebar files code optimized
+
+[33mcommit 1b07359e4fa80ad139537d07aed3eed514e5e33f[m
+Merge: 9684efc dcded40
+Author: NikitaKaranpuria <83944173+NikitaKaranpuria@users.noreply.github.com>
+Date:   Mon Aug 29 15:04:19 2022 +0530
+
+    Merge pull request #28 from VHITS-Full-Stack/design_bharat
+    
+    Admin connect wallet add and Nft minting design modified
+
+[33mcommit dcded40b5f7827e406571068eb1d7857c66235f9[m
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Mon Aug 29 14:56:24 2022 +0530
+
+    routs changes
+
+[33mcommit da774a073c789807c9679f780350e4a5e5961742[m
+Merge: 16661bd 9684efc
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Mon Aug 29 14:44:13 2022 +0530
+
+    Merge branch 'main' into design_bharat
+
+[33mcommit 16661bd360b1f2c9fa254b7fadc78be89d0ceab9[m
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Mon Aug 29 14:19:45 2022 +0530
+
+    admin nft wallet connect
+
+[33mcommit 4a825367c0170de941a912e818eec5e1c6a63b6b[m
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Mon Aug 29 12:34:39 2022 +0530
+
+    Setting section files code optimized
+
+[33mcommit 65631884f62d6d7a71fe46b9e02f8e2c99344b6a[m
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Mon Aug 29 12:13:36 2022 +0530
+
+    floorsweep file code optimized
+
+[33mcommit f186ae0fcec977fa5eb8792744db97cc3e6290d3[m
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Mon Aug 29 12:07:39 2022 +0530
+
+    Calendar or whales section file code optimized
+
+[33mcommit 9684efc17099e6816de51bf01c8f2950a9b82ddf[m
+Merge: a5ee5af 3c65501
+Author: NikitaKaranpuria <83944173+NikitaKaranpuria@users.noreply.github.com>
+Date:   Fri Aug 26 19:15:52 2022 +0530
+
+    Merge pull request #27 from VHITS-Full-Stack/design_bharat
+    
+    Collections or trending files code optimized
+
+[33mcommit 3c65501ec70b90eddc619d9ea5e0d977969708ca[m
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Fri Aug 26 19:11:57 2022 +0530
+
+    issue resolved
+
+[33mcommit a496cddc2dbdd3cd477a0d20296db89897e87ae0[m
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Fri Aug 26 19:07:12 2022 +0530
+
+    users Trending or collections files code optimized
+
+[33mcommit a5ee5af77b645a43a26f5e66bd5d17f7713de11a[m
+Merge: 083c757 166128b
+Author: NikitaKaranpuria <83944173+NikitaKaranpuria@users.noreply.github.com>
+Date:   Fri Aug 26 17:31:41 2022 +0530
+
+    Merge pull request #26 from VHITS-Full-Stack/design_bharat
+    
+    change folder name ,spelling fix
+
+[33mcommit 166128bede8d146b321c9f4b8d7d0b426a4eb588[m
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Fri Aug 26 17:30:10 2022 +0530
+
+    change folder name ,spelling fix
+
+[33mcommit 083c7570411bf69ccfbe2618f47b2f8b4c69e0be[m
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Fri Aug 26 17:20:48 2022 +0530
+
+    errors issues resolved
+
+[33mcommit 101f7b2ae5641eabac10a0cf04bd6fad462256e9[m
+Merge: 042b5e1 50d6a47
+Author: NikitaKaranpuria <83944173+NikitaKaranpuria@users.noreply.github.com>
+Date:   Fri Aug 26 15:34:41 2022 +0530
+
+    Merge pull request #25 from VHITS-Full-Stack/design_bharat
+    
+    My portfolio section code optimized
+
+[33mcommit 50d6a47e2d511fbce3dd206c08f6673fb692b2a3[m
+Merge: d9c0303 042b5e1
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Fri Aug 26 15:26:59 2022 +0530
+
+    Merge remote-tracking branch 'origin/main' into design_bharat
+
+[33mcommit d9c03037851270f9f541a02a6f2a05fbd88c3a26[m
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Fri Aug 26 15:22:06 2022 +0530
+
+    myportfolio section code optimized
+
+[33mcommit 042b5e1afb7773a7c6eec891798ee14911e88c09[m
+Author: Nikita Karanpuria <nikita.vhits@gmail.com>
+Date:   Fri Aug 26 12:01:20 2022 +0530
+
+    changes in folder structure ,correct spelling
+
+[33mcommit 509ae1467f8adcfb1a94daffb1ae34361b0223c2[m
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Fri Aug 26 11:52:49 2022 +0530
+
+    discovery section code optimized
+
+[33mcommit a77191d5fcd0c2333d45d5e907ac8ee970841d9b[m
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Fri Aug 26 11:29:41 2022 +0530
+
+    User compare section code optimized
+
+[33mcommit 3ec7eefb7b59b3965d98050445e3b39dcec0a22f[m
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Fri Aug 26 10:52:29 2022 +0530
+
+    index file parse library added
+
+[33mcommit b49a252e55f33b4f50d2c24edbe4d5847c44fd43[m
+Merge: 00630dd bde6496
+Author: NikitaKaranpuria <83944173+NikitaKaranpuria@users.noreply.github.com>
+Date:   Thu Aug 25 18:37:50 2022 +0530
+
+    Merge pull request #24 from VHITS-Full-Stack/design_bharat
+    
+    getAllSlugList api implemented and nft minting list section create tab options
+
+[33mcommit bde6496ee314be1d28d5dd5709922e28fe20a8a6[m
+Merge: ef43fe5 00630dd
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Thu Aug 25 18:34:10 2022 +0530
+
+    Merge remote-tracking branch 'origin/main' into design_bharat
+
+[33mcommit ef43fe58f15b99d56ccb5813f49de004761620af[m
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Thu Aug 25 18:31:53 2022 +0530
+
+    getAllSlugList api implement on project section
+
+[33mcommit f0cad507fbdad347233f46d6f8c17b8f4e14250e[m
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Thu Aug 25 16:31:44 2022 +0530
+
+     News and Watching and Alerts section code optimized
+
+[33mcommit c7bafa060f5d9699fc1ba2bd00fa30fecae0c6e4[m
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Thu Aug 25 14:12:10 2022 +0530
+
+    Nft minting tab section design completed
+
+[33mcommit 372a434e1c0ca1502bc8a73f035199ec4bfee80a[m
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Wed Aug 24 19:25:13 2022 +0530
+
+    Admin section create Nft minting crud and user nftProject code optimized
+
+[33mcommit b6deb903c680427a564906d6aa18b745c3099f39[m
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Wed Aug 24 14:38:08 2022 +0530
+
+    User section NFT Project NFTProjectSales files code optimized
+
+[33mcommit 5504a177a89704bb90e7eb27e0a12af409f6a04c[m
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Wed Aug 24 11:53:19 2022 +0530
+
+    admin link, notification code optimized
+
+[33mcommit 01ba190f254f39a106402bf4505b7c923ca66061[m
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Tue Aug 23 19:20:16 2022 +0530
+
+    News, links, category management, project management, cms, userlist all files code optimized
+
+[33mcommit 00630ddea81d730b39acca5e17d330dc355de6d0[m
+Merge: d479478 4a852ea
+Author: NikitaKaranpuria <83944173+NikitaKaranpuria@users.noreply.github.com>
+Date:   Thu Aug 18 16:51:14 2022 +0530
+
+    Merge pull request #23 from VHITS-Full-Stack/design_bharat
+    
+    Create project crud section inside collections
+
+[33mcommit 4a852ea2ba58f3ff6bc4616f96f1ecc8e914ba89[m
+Merge: ca8ea74 d479478
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Thu Aug 18 16:48:37 2022 +0530
+
+    Merge branch 'main' into design_bharat
+
+[33mcommit ca8ea7468f4835a807d609a3a965162ecd1fa450[m
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Thu Aug 18 16:47:49 2022 +0530
+
+    Create crud section inside collections
+
+[33mcommit d4794788f09cdc5d8fbede64cb614ae3b0f4b0c4[m
+Merge: 49200aa 6ff5ea1
+Author: NikitaKaranpuria <83944173+NikitaKaranpuria@users.noreply.github.com>
+Date:   Wed Aug 17 18:17:46 2022 +0530
+
+    Merge pull request #22 from VHITS-Full-Stack/design_bharat
+    
+    Add collection fields and social links in form
+
+[33mcommit 6ff5ea15ce32bf82ac2558567bbdc5f346f6f3d5[m
+Merge: e216140 49200aa
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Wed Aug 17 18:15:28 2022 +0530
+
+    Merge remote-tracking branch 'origin/main' into design_bharat
+
+[33mcommit e2161408e2bed3736b40981b8d5f056eba3972a9[m
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Wed Aug 17 18:14:18 2022 +0530
+
+    add collection fields and social links in form
+
+[33mcommit 49200aa0d5df35299be8e998184a9e7546782815[m
+Merge: bdc90f6 274a872
+Author: NikitaKaranpuria <83944173+NikitaKaranpuria@users.noreply.github.com>
+Date:   Wed Aug 10 15:28:09 2022 +0530
+
+    Merge pull request #21 from VHITS-Full-Stack/design_bharat
+    
+    cmsDetails function modified
+
+[33mcommit 274a872eca70e13e56c2539bfc8d697ea84ca262[m
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Wed Aug 10 15:22:18 2022 +0530
+
+    getcmsDetails files modified
+
+[33mcommit 3cc95dd8ddf699b3431e54b8099fb2c77ae79e99[m
+Merge: 23da463 bdc90f6
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Wed Aug 10 15:15:30 2022 +0530
+
+    Merge remote-tracking branch 'origin/main' into design_bharat
+
+[33mcommit 23da463113de5b2c06a5507abf17aa821496bdf1[m
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Wed Aug 10 15:14:35 2022 +0530
+
+    Privacy policy file modified
+
+[33mcommit bdc90f66aa07537e6c3d8b25a9d8c609203b3a08[m
+Merge: cd85ff1 4cf0a63
+Author: NikitaKaranpuria <83944173+NikitaKaranpuria@users.noreply.github.com>
+Date:   Wed Aug 10 14:58:08 2022 +0530
+
+    Merge pull request #20 from VHITS-Full-Stack/design_bharat
+    
+    getCMSDetail function changed. set header token
+
+[33mcommit 4cf0a6302b37a033d617ac6eec1e0259038448ba[m
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Wed Aug 10 14:55:01 2022 +0530
+
+    getCMSDetail function changed. set header token
+
+[33mcommit cd85ff1ed74799690111db8eb02eed2e04b008a5[m
+Merge: 7b3e61f 15173a4
+Author: NikitaKaranpuria <83944173+NikitaKaranpuria@users.noreply.github.com>
+Date:   Tue Aug 9 19:08:54 2022 +0530
+
+    Merge pull request #19 from VHITS-Full-Stack/design_bharat
+    
+    CMS changes
+
+[33mcommit 15173a4e9cd56a939441cde93144c5b780c21f02[m
+Merge: 0a00e5f 7b3e61f
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Tue Aug 9 19:08:09 2022 +0530
+
+    Merge remote-tracking branch 'origin/main' into design_bharat
+
+[33mcommit 0a00e5fdb7d78db8a4c4b7ba9a8817971ab3ec7e[m
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Tue Aug 9 19:07:28 2022 +0530
+
+    CMS changes
+
+[33mcommit 7b3e61f24d2ce851bbfbd8aca64994de8c60307f[m
+Merge: 9e63ec0 c4ac098
+Author: NikitaKaranpuria <83944173+NikitaKaranpuria@users.noreply.github.com>
+Date:   Tue Aug 9 16:37:03 2022 +0530
+
+    Merge pull request #18 from VHITS-Full-Stack/design_bharat
+    
+    cms pages code optimized
+
+[33mcommit c4ac098f5f723bc11ff5d367c8f8034cb97630ce[m
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Tue Aug 9 16:33:44 2022 +0530
+
+    cms pages code optimized
+
+[33mcommit 9e63ec0af3b8af49adeb02287836abc804c257ef[m
+Merge: db36b22 fba7abf
+Author: Nikita Karanpuria <nikita.vhits@gmail.com>
+Date:   Tue Aug 9 11:02:38 2022 +0530
+
+    Merge branch 'main' of https://github.com/VHITS-Full-Stack/NFT_Traders_frontend
+
+[33mcommit db36b222534811644494f6abcc4a251f9e406b9e[m
+Author: Nikita Karanpuria <nikita.vhits@gmail.com>
+Date:   Tue Aug 9 10:52:43 2022 +0530
+
+    Changes folder structure ,added index file for import package
+
+[33mcommit fba7abfe9a96a65f9a9ab8773b5465164e81224d[m
+Merge: ecd810c f68eb39
+Author: NikitaKaranpuria <83944173+NikitaKaranpuria@users.noreply.github.com>
+Date:   Mon Aug 8 19:18:52 2022 +0530
+
+    Merge pull request #17 from VHITS-Full-Stack/design_bharat
+    
+    Cms all pages api integrated
+
+[33mcommit f68eb39ee7d27c2fdad0f48378365c9450a0764a[m
+Author: bharatpuri <bharatpuri.vhits@gmail.com>
+Date:   Mon Aug 8 19:08:20 2022 +0530
+
+    Cms all pages api integrated
+
+[33mcommit ecd810c4a1d4372cbb362f6afdc466f9c0c7d5fa[m
+Merge: a87bc19 c250b48
+Author: Nikita Karanpuria <nikita.vhits@gmail.com>
+Date:   Mon Aug 8 10:35:34 2022 +0530
+
+    Merge branch 'main' of https://github.com/VHITS-Full-Stack/NFT_Traders_frontend
